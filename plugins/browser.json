@@ -9,6 +9,12 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.daniellopesdarocha1.garconapp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.daniellopesdarocha1.garconapp"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "PACKAGE_NAME": "com.daniellopesdarocha1.garconapp"
         }
     },
     "dependent_plugins": {}
