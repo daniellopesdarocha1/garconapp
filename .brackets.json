@@ -1,5 +1,8 @@
 {
     "jscodehints.detectedExclusions": [
-        "C:/Users/Daniel/Documents/Dev/garconapp/www/js/app.js"
+        "C:/Users/Daniel/Documents/Dev/garconapp/plugins/cordova-plugin-vibration/src/windows/VibrationProxy.js",
+        "C:/Users/Daniel/Documents/Dev/garconapp/plugins/cordova-plugin-vibration/tests/tests.js",
+        "C:/Users/Daniel/Documents/Dev/garconapp/plugins/cordova-plugin-vibration/www/blackberry10/vibrate.js",
+        "C:/Users/Daniel/Documents/Dev/garconapp/platforms/android/build/intermediates/assets/debug/www/js/app.js"
     ]
 }

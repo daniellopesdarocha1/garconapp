@@ -74,3 +74,4 @@ $('.acao-finalizar').on('click', function() {
         }
     });
 });
+
