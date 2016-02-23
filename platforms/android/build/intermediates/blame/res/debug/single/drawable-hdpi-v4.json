@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Daniel\\Documents\\Dev\\garconapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shopper_icon.png",
+        "source": "C:\\Users\\Daniel\\Documents\\Dev\\garconapp\\platforms\\android\\res\\drawable-hdpi\\shopper_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\Documents\\Dev\\garconapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\launcher_icon.png",
+        "source": "C:\\Users\\Daniel\\Documents\\Dev\\garconapp\\platforms\\android\\res\\drawable-hdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\Documents\\Dev\\garconapp\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\Daniel\\Documents\\Dev\\garconapp\\platforms\\android\\res\\drawable-hdpi\\icon.png"
+    }
+]
